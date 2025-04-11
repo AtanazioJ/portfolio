@@ -1,22 +1,23 @@
 project:
   type: website
   output-dir: "."
-  
+
 website:
-  title: "PROJECT"
+  title: "Portfólio Jhonatan"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Início
+      - href: about.qmd
+        text: About
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/atanaziojhonatan/?jobid=1234"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
 
 
 

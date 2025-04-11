@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PROJECT",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "index.html#experiência-profissional",
+    "href": "index.html#experiência-profissional",
+    "title": "Meu Portfólio",
+    "section": "💼 Experiência Profissional",
+    "text": "💼 Experiência Profissional"
+  },
+  {
+    "objectID": "index.html#formação-acadêmica",
+    "href": "index.html#formação-acadêmica",
+    "title": "Meu Portfólio",
+    "section": "🎓 Formação Acadêmica",
+    "text": "🎓 Formação Acadêmica\n🎓 Bacharelado em Ciência de Dados – FAE Centro Universitário, 2023 - Presente"
+  },
+  {
+    "objectID": "index.html#contato",
+    "href": "index.html#contato",
+    "title": "Meu Portfólio",
+    "section": "📫 Contato",
+    "text": "📫 Contato\n📧 Email: jhonatanatanazio@gmail.com 🔗 LinkedIn"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "🚧🚧 Página em Desenvolvimento 🚧🚧"
   }
 ]
